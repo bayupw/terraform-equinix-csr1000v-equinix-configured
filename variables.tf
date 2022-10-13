@@ -34,7 +34,6 @@ variable "acl_description" {
   default     = "my-acl"
 }
 
-
 variable "type_code" {
   description = "Vendor package code."
   type        = string
